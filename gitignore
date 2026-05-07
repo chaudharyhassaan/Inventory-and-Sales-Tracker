@@ -1,0 +1,27 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+inventory
+
+# Data files (optional: remove these lines if you want to track sample data)
+Products.txt
+Sales.txt
+
+# IDE / editor files
+.vscode/
+.idea/
+*.vcxproj
+*.vcxproj.filters
+*.sln
+*.suo
+*.user
+*.aps
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
